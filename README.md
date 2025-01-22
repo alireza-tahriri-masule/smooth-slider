@@ -2,6 +2,9 @@
 
 **SmoothSlider** is a sleek, smooth, and modern image slider built with **Tailwind CSS**. It allows you to display images in a beautiful, fluid carousel, enhancing the user experience on your website.
 
+## Demo
+https://github.com/user-attachments/assets/a9aa4e20-69f7-4599-bc5b-e2b5087006b4
+
 ## Features
 - 🌟 Smooth sliding animations
 - 🚀 Built with **Tailwind CSS** for responsive design
